@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="371" height="220" viewBox="0 0 371 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g filter="url(#filter0_d_59_13)">
+    <path d="M60 70C60 42.3858 82.3858 20 110 20H301C306.523 20 311 24.4772 311 30V70C311 97.6142 288.614 120 261 120H70C64.4772 120 60 115.523 60 110V70Z" fill="white" shape-rendering="crispEdges"/>
+    <circle cx="119" cy="70" r="30" fill="#FDEDEF"/>
+    <path d="M126.703 61.8438C126.435 65.4579 123.695 68.4062 120.687 68.4062C117.68 68.4062 114.935 65.4586 114.672 61.8438C114.398 58.084 117.064 55.2812 120.687 55.2812C124.311 55.2812 126.977 58.1523 126.703 61.8438Z" stroke="#EE4A62" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M120.688 72.7812C114.74 72.7812 108.704 76.0625 107.587 82.2559C107.45 83.0023 107.875 83.7188 108.657 83.7188H132.719C133.501 83.7188 133.923 83.0023 133.789 82.2559C132.671 76.0625 126.635 72.7812 120.688 72.7812Z" stroke="#EE4A62" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M107.016 64.0312V71.6875M110.844 67.8594H103.188" stroke="#EE4A62" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text style="white-space: pre; fill: rgb(255, 255, 255); font-size: 5px;" x="190.036" y="105.243">Enter your text here</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 13.3px; font-weight: 700; white-space: pre;" x="167.397" y="83.669">Enrolled Company</text>
+    <text style="fill: rgb(255, 0, 0); font-family: Arial, sans-serif; font-size: 25.3px; font-weight: 700; white-space: pre;" x="167.397" y="59.165">20 +</text>
+  </g>
+  <defs>
+    <filter id="filter0_d_59_13" x="0" y="0" width="371" height="220" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="40"/>
+      <feGaussianBlur stdDeviation="30"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.0588235 0 0 0 0 0.0431373 0 0 0 0 0.172549 0 0 0 0.15 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_59_13"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_59_13" result="shape"/>
+    </filter>
+  </defs>
+</svg>
