@@ -48,5 +48,5 @@ FinTrackX is a robust platform aimed at revolutionizing financial management. It
 - **Impact:** 🚀 By empowering users with better financial control, FinTrackX aims to make a significant impact in facilitating financial management.
 
 ## Q&A:
-- **Open Floor:** 🤔 FinTrackX invites questions and feedback from users, stakeholders, and potential users to continuously improve the platform and meet user needs effectively.
+- Open Floor: 🤔 FinTrackX invites questions and feedback from users, stakeholders, and potential users to continuously improve the platform and meet user needs effectively.
 # FinTrackX
